@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 🎓 **Final Year CSE Undergraduate @ North South University (NSU)** with a strong foundation in systems programming, full-stack web development, and cutting-edge browser-based AI.
 
@@ -158,7 +158,7 @@ A **C++ application** that models and queries real Paris 2024 Olympic Games data
 
 ---
 
-## 🌍 Contact Me
+##  Contact Me
 
 📧 **Email:** [mahfujur14180@gmail.com](mailto:mahfujur14180@gmail.com)
 📍 **Location:** Dhaka, Bangladesh
