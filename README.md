@@ -33,7 +33,7 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22"/> &nbsp;**Systems Programmer** — Deep diving into C, C++, and Java OOP principles
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="22"/> &nbsp;Currently debugging my sleep schedule alongside my codebase
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="22"/> &nbsp;Currently debugging my sleep schedule alongside my codebase
 
 </td>
 <td valign="middle" width="45%" align="center">
@@ -101,6 +101,8 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%9A%80%20%20Highlighted%20Projects&fontSize=32&fontColor=FFD700&animation=twinkling&fontAlignY=75" width="100%"/>
 </div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**⚡ SouthStack Code AI — In-Browser LLM *(In Progress)***
 
