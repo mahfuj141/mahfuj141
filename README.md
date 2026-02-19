@@ -1,151 +1,250 @@
-<div align="center">
-
-<!-- TYPING SVG HEADER — replace YOUR_NAME -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Final+Year+CSE+%40+YOUR_UNIVERSITY;Full-Stack+%7C+WebLLM+%7C+Systems+Builder;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</div>
-
----
-
-## 🧠 About Me
-
-I'm a **final-year Computer Science & Engineering student** who loves building things that actually work — from browser-based AI engines to full-stack web platforms and low-level data structures in C++.
-
-- 🎓 Finishing my undergrad in CSE — and making it count with real projects
-- 🌐 Currently building **SouthStack Code AI** — a 1.5B LLM running 100% in-browser via WebGPU (no server, no API key)
-- 🔧 I work across the full stack: systems-level C/C++, OOP in Java, and modern web dev
-- 🗄️ Passionate about **Database Systems** — from schema design to building full CRUD platforms
-- ⚡ Personal traits: Problem-solver at heart · Clean code advocate · Deadline-driven
-
----
-
-## 🧩 Tech Stack & Skills
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![WebLLM](https://img.shields.io/badge/WebLLM-00FF88?style=for-the-badge&logo=webassembly&logoColor=black)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WebGPU](https://img.shields.io/badge/WebGPU-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-**Areas of Expertise**
-
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Dev-0A0A0F?style=for-the-badge&logo=vercel&logoColor=00FF88)
-![Database Systems](https://img.shields.io/badge/Database%20Systems-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=7c3aed)
-![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1e1e2e?style=for-the-badge&logo=leetcode&logoColor=F7DF1E)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-1e1e2e?style=for-the-badge&logo=java&logoColor=E34F26)
-
----
-
-## 🚀 Highlighted Projects
-
-### ⚡ SouthStack Code AI — In-Browser LLM *(In Progress)*
-> *JavaScript · WebLLM · Vite · WebGPU · Qwen2.5-Coder-1.5B*
-
-A fully offline AI coding assistant running a **1.5B parameter LLM entirely inside the browser tab** — no server, no API key, no subscription. Powered by WebGPU for hardware-accelerated inference.
-
-- 🧠 Streams responses token-by-token with live UI updates
-- 📦 Model weights (~1 GB) cached locally via browser cache — loads instantly after first run
-- 🔒 100% private — all computation happens on the user's device
-- 🎨 Custom dark-themed chat UI with code syntax highlighting
-
-> **Tech challenge solved:** Integrating `@mlc-ai/web-llm` with Vite + proper COOP/COEP security headers for `SharedArrayBuffer` support
-
----
-
-### 🎓 Alumni Network & Management System
-> *PHP · MySQL · HTML · CSS · JavaScript (Full-Stack)*
-
-A complete **web-based alumni management platform** for university use, with role-based access and a rich set of social + career features.
-
-- 📋 Features: user registration/login, alumni directory search, employment tracking, event management, job & internship board, achievement showcase, communication feed
-- 🗄️ Designed and implemented relational database schema with normalized tables
-- 🔐 Session-based authentication with logout management
-- 📡 Dynamic PHP backend with `db.php` connection layer and modular page routing
-
----
-
-### 📚 Library Management System
-> *Java · OOP · File I/O / Database*
-
-A console-based **Library Management System** built in Java for the CSE215 course, applying core Object-Oriented Programming principles.
-
-- 📖 Manage books, members, and borrow/return transactions
-- 🧱 Designed with clean OOP architecture: encapsulation, inheritance, and polymorphism
-- 🗂️ Persistent data storage for books and member records
-
----
-
-### 🏅 Paris Olympics 2024 — Data Structure Project
-> *C++ · Data Structures · Algorithms*
-
-A **C++ data-structure driven application** that models and queries Paris 2024 Olympic Games data.
-
-- 🥇 Implements custom DSA solutions (sorting, searching, graph/tree structures) to manage athlete, medal, and event data
-- 📊 Query-based interface to filter rankings, medal tallies, and event schedules
-- ⚙️ Demonstrates practical DSA application on real-world datasets
-
----
-
-## 📊 GitHub Stats
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                    HEADER                             -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![YOUR_USERNAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=00FFB3&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Md. Mahfujur Rahman+%F0%9F%91%8B;Final+Year+CSE+%40+NSU;Building+LLMs+that+run+inside+your+browser;Full-Stack+%7C+Systems+%7C+Database+Architect;Shipping+real+things%2C+not+just+assignments.)](https://git.io/typing-svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfujur-rahman14
+)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:mahfujur14180@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/mahfuj141)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=mahfuj141&style=flat-square&color=00FFB3&label=Profile+Visits)](https://github.com/mahfuj141)
 
 </div>
 
----
+<br/>
 
-## 🛠️ What I'm Working On
+<!-- ══════════════════════════════════════════════════════ -->
+<!--           NEOFETCH-STYLE ABOUT SECTION                -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-```text
-⚡ SouthStack Code AI     ████████░░░░░░░░  Phase 1 Complete — Model loads & chats
-🎯 Polishing Portfolio    ██████░░░░░░░░░░  Active
-📖 DSA Revision           ████░░░░░░░░░░░░  Ongoing
+```bash
+╭─ mahfuj141 @ github ───────────────────────────────────────────╮
+│                                                                      │
+│   $ whoami                                                           │
+│   ▸  Md. Mahfujur Rahman                                                       │
+│      Final-year CSE undergraduate · Dhaka, Bangladesh 🇧🇩            │
+│                                                                      │
+│   $ cat interests.txt                                                │
+│   ▸  Browser-native AI  (WebLLM · WebGPU)                          │
+│   ▸  Full-Stack Web Development                                     │
+│   ▸  Database Architecture & Systems Design                        │
+│   ▸  Low-level Systems Programming  (C / C++)                      │
+│   ▸  Object-Oriented Design in Java                                │
+│                                                                      │
+│   $ cat traits.txt                                                   │
+│   ▸  Ships working software, not just prototypes                   │
+│   ▸  Reads error messages instead of rage-quitting                 │
+│   ▸  Obsessed with "why" before "how"                              │
+│   ▸  Writes code that teammates can actually read                  │
+│                                                                      │
+│   $ uptime                                                           │
+│   ▸  Studying CS for 4 years — still not bored.                    │
+│                                                                      │
+╰────────────────────────────────────────── [ ✓ loaded in 0.001s ] ─╯
 ```
 
----
+<br/>
 
-## ⚡ Fun Fact
+<!-- ══════════════════════════════════════════════════════ -->
+<!--              TECH STACK — MATRIX STYLE                -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-> I shipped an LLM that runs entirely in a browser tab with **zero backend, zero API, zero subscription** — just raw WebGPU and a dream. 🚀
+## `〔 01 〕` Tech Stack
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**⬡ Languages**
+```
+C              ████████████  ★★★★★
+C++            ███████████░  ★★★★☆
+Java           ███████████░  ★★★★☆
+JavaScript     ████████████  ★★★★★
+PHP            █████████░░░  ★★★☆☆
+SQL            ████████████  ★★★★★
+HTML & CSS     ████████████  ★★★★★
+```
+
+</td>
+<td valign="top" width="33%">
+
+**⬡ Web & Runtimes**
+```
+Vite           ████████████
+Node.js        ██████████░░
+Express.js     █████████░░░
+WebLLM API     ████████░░░░  ← active
+PHP Backend    ██████████░░
+REST Design    █████████░░░
+```
+
+</td>
+<td valign="top" width="33%">
+
+**⬡ Tools & Platforms**
+```
+Git & GitHub   ████████████
+VS Code        ████████████
+MySQL          ███████████░
+WebGPU         ████████░░░░  ← learning
+Linux CLI      █████████░░░
+Chrome DevTools████████████
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--            PROJECTS — GIT LOG CARD STYLE              -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+## `〔 02 〕` Projects
+
+```
+┌─[ FEATURED · IN PROGRESS ]────────────────────────────────────────────────┐
+│                                                                             │
+│  ⚡  SouthStack Code AI                                                     │
+│  ────────────────────────────────────────────────────────────────────────  │
+│  commit  : Phase 1 complete — model loads, streams & responds              │
+│  stack   : JavaScript · WebLLM · Vite · WebGPU · Qwen2.5-Coder-1.5B      │
+│  status  : [ ██████████░░░░░░░░░ ] Phase 1 of N — actively building       │
+│                                                                             │
+│  A 1.5B-parameter coding LLM running 100% inside the browser tab.         │
+│  No API key. No server. No subscription. Just WebGPU + your device.       │
+│                                                                             │
+│  ✦  Real-time token streaming with live blinking cursor UI                │
+│  ✦  Model weights (~1 GB) cached locally — instant after first load       │
+│  ✦  Solved: COOP/COEP headers for SharedArrayBuffer in Vite               │
+│  ✦  Full markdown + fenced code block rendering inside the chat           │
+│  ✦  Dark terminal-inspired UI designed and built from scratch             │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─[ DATABASE SYSTEMS · FULL-STACK ]─────────────────────────────────────────┐
+│                                                                             │
+│  🎓  Alumni Network & Management System                                    │
+│  ────────────────────────────────────────────────────────────────────────  │
+│  stack   : PHP · MySQL · HTML · CSS · JavaScript                          │
+│  type    : Full-stack web platform with relational database backend        │
+│                                                                             │
+│  A complete university alumni management system built for real use:        │
+│                                                                             │
+│  ✦  Modules: alumni directory, job board, internships, events,            │
+│     achievements, communication feed, employment tracker                   │
+│  ✦  Session-based auth (register · login · logout) with security layer    │
+│  ✦  Fully normalized relational schema — zero redundant data              │
+│  ✦  Modular PHP routing with clean db.php connection layer                │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─[ OBJECT-ORIENTED PROGRAMMING · JAVA ]────────────────────────────────────┐
+│                                                                             │
+│  📚  Library Management System                           [ CSE215 ]        │
+│  ────────────────────────────────────────────────────────────────────────  │
+│  stack   : Java · OOP Design Patterns · File I/O                          │
+│                                                                             │
+│  ✦  Manage books, members and borrow/return transactions                  │
+│  ✦  Class hierarchy: Book → Member → Transaction                          │
+│     (inheritance · polymorphism · encapsulation)                           │
+│  ✦  Persistent data storage via file handling across sessions             │
+│  ✦  Zero God classes — clean separation of concerns throughout            │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─[ DATA STRUCTURES & ALGORITHMS · C++ ]────────────────────────────────────┐
+│                                                                             │
+│  🏅  Paris Olympics 2024 — DSA Project                                     │
+│  ────────────────────────────────────────────────────────────────────────  │
+│  stack   : C++ · Custom Data Structures · Algorithm Design                │
+│                                                                             │
+│  Modeling real Paris 2024 Olympic data using hand-rolled DSA —            │
+│  not just std::sort and call it done.                                      │
+│                                                                             │
+│  ✦  Custom implementations: sorting, searching, tree & graph structs      │
+│  ✦  Query interface: medal tallies, event schedules, country rankings     │
+│  ✦  Real-world dataset used to ground abstract DSA concepts               │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                         -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+## `〔 03 〕` GitHub Activity
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mahfuj141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=7"/>
+
+<br/>
+
+<img width="680em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj141&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3"/>
+
+<br/><br/>
+
+<img width="680em" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuj141&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&area_color=00FFB3&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                 CURRENT FOCUS                         -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+## `〔 04 〕` Right Now
+
+```bash
+$ ps aux --sort=-%cpu | head        # what's running in my head
+
+  PID   PROCESS                        CPU%    STATUS
+  ───   ───────────────────────────    ─────   ────────────────
+  001   southstack-code-ai             89%     [ ACTIVE · BUILDING ]
+  002   final-year-coursework          70%     [ ONGOING ]
+  003   data-structures-revision       40%     [ BACKGROUND ]
+  004   exploring-new-tech             30%     [ IDLE → SPIKE ]
+  005   sleep                           2%     [ DEPRIORITIZED ]
+```
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                     FOOTER                            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 ---
 
 <div align="center">
 
-*"Build things. Break things. Learn everything."*
+```
+╭──────────────────────────────────────────────────────────────╮
+│   "The best way to understand something is to build it."     │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF88&style=flat-square&label=Profile+Views)
+*CSE Undergrad · Builder · Dhaka, Bangladesh 🇧🇩*
 
 </div>
