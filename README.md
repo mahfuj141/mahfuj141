@@ -39,7 +39,7 @@
 
 ---
 
-## 🧩 Tech Stack & Skills
+##  Tech Stack & Skills
 
 **Languages:**
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
 **⚡ SouthStack Code AI — In-Browser LLM *(In Progress)***
 
@@ -166,6 +166,3 @@ A **C++ application** that models and queries real Paris 2024 Olympic Games data
 
 ---
 
-## ⚡ Fun Fact
-
-> I shipped an LLM that runs entirely in a browser tab with **zero backend, zero API key, zero subscription** — just raw WebGPU and a lot of debugging. 🚀
