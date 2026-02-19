@@ -1,148 +1,209 @@
-<!-- TOP BANNER GIF — Upload Tech_Coding_GIF_by_Pudgy_Penguins.gif to your repo as assets/banner.gif -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--         ANIMATED WAVE HEADER BANNER           -->
+<!-- ═══════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahfuj141/mahfuj141/main/assets/banner.gif" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,50:0099FF,100:7c3aed&height=200&section=header&text=Md.%20Mahfujur%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20%40%20NSU%20%7C%20Builder%20%7C%20Gamer%20%7C%20Gym%20Rat&descAlignY=58&descSize=17" width="100%"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--   TYPING SVG — EDUCATION & EXPERTISE ONLY     -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00FFB3&center=true&vCenter=true&width=740&lines=Final+Year+CSE+%40+North+South+University+%F0%9F%8E%93;Full-Stack+Developer+%7C+PHP+%C2%B7+JavaScript+%C2%B7+Node.js;Systems+Programmer+%7C+C+%C2%B7+C%2B%2B+%C2%B7+Java;Database+Architect+%7C+MySQL+%C2%B7+Schema+Design;Browser+AI+Engineer+%7C+WebLLM+%C2%B7+WebGPU+%E2%9A%A1;Object-Oriented+Design+%7C+Clean+Code+Advocate;Full-Stack+%7C+DSA+%7C+OOP+%7C+Databases)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
-<!-- SEQUENTIAL TYPING ANIMATION — cycles through all sides of who you are -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--       ANIMATED SOCIAL CONNECT ICONS           -->
+<!-- ═══════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=false&width=750&lines=Hey%2C+I'm+Mahfuj+%F0%9F%91%8B;Final+Year+CSE+%40+North+South+University;Building+LLMs+that+live+in+your+browser+%E2%9A%A1;Elden+Ring+%7C+CS2+%7C+Marvel+Rivals+%7C+RE+Enjoyer+%F0%9F%8E%AE;Heavy+Lifter+%7C+Gym+is+non-negotiable+%F0%9F%8F%8B%EF%B8%8F;Breaking+Bad+%C2%B7+GOT+%C2%B7+Peaky+Blinders+%F0%9F%93%BA;Travis+Scott+%C2%B7+The+Weeknd+%C2%B7+Radiohead+on+loop+%F0%9F%8E%A7;Shipping+real+things%2C+not+just+ideas.)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/mahfujur-rahman14" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="55" title="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mahfujur14180@gmail.com">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="55" title="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/MahfujHk/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="55" title="Facebook"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/mahfuj_rhn/?hl=en" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="55" title="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://steamcommunity.com/profiles/76561198426274232/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-0f5f-4c11-a7d5-b8e7b35ae3b1.gif" width="55" title="Steam"/>
+</a>
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════ -->
+<!--      ANIMATED SECTION HEADER — ABOUT ME       -->
+<!-- ═══════════════════════════════════════════════ -->
 
-## 🙋‍♂️ About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:0099FF&height=3&section=header" width="100%"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=55&text=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20%20About%20Me&fontSize=30&fontColor=00FFB3&animation=fadeIn&fontAlignY=70" width="100%"/>
+</div>
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="58%">
 
-I'm **Mahfuj** — CSE student by day, gym rat by night. I write code that actually ships, lift weights that actually move, and watch shows that actually hit.
+I'm **Mahfuj** — CSE student by day, gym rat and Elden Ring veteran by whenever I'm done with the code. I write things that ship, lift things that are heavy, and play games that punish you for existing.
 
 &nbsp;
 
-🎓 &nbsp;Final Year CSE @ **North South University**  
-⚡ &nbsp;Building **SouthStack Code AI** — a full LLM running in your browser, zero server   
-🏋️ &nbsp;Heavy lifting, regularly. Gains don't take days off  
-📺 &nbsp;**Breaking Bad** · **Game of Thrones** · **Peaky Blinders** — the holy trinity  
-🎵 &nbsp;**Travis Scott** · **The Weeknd** · **Radiohead** always in the background  
-🔨 &nbsp;Always cooking something — personal projects, academic builds, or both  
+🎓 &nbsp;Final Year CSE @ **North South University**
+⚡ &nbsp;Currently building **SouthStack Code AI** — an LLM that runs 100% in your browser, zero server
+🎮 &nbsp;**FromSoftware** loyalist · **Elden Ring** is still my GOTY · **CS2** & **Marvel Rivals** daily
+💀 &nbsp;**Resident Evil** franchise collector — the horror never gets old
+🏋️ &nbsp;Heavy lifting, regularly. Gains don't take days off
+📺 &nbsp;**Breaking Bad** · **Game of Thrones** · **Peaky Blinders** — the holy trinity
+🎵 &nbsp;**Travis Scott** · **The Weeknd** · **Radiohead** always in the background
+🔨 &nbsp;Always cooking — personal projects, academic builds, or both at once
 ☕ &nbsp;Currently debugging my sleep schedule alongside my codebase
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="42%" align="center">
 
-<!-- Upload Code_Hacking_GIF_by_Pizza_Ninjas.gif as assets/coding-cat.gif -->
-<img src="https://raw.githubusercontent.com/mahfuj141/mahfuj141/main/assets/coding-cat.gif" width="280" alt="coding gif"/>
+<!--
+  ⚠️  SETUP REQUIRED:
+  Upload Code_Hacking_GIF_by_Pizza_Ninjas.gif
+  to your repo as: assets/coding-cat.gif
+  Path: mahfuj141/mahfuj141/assets/coding-cat.gif
+-->
+<img src="https://raw.githubusercontent.com/mahfuj141/mahfuj141/main/assets/coding-cat.gif" width="300" alt="coding"/>
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00FFB3&height=3&section=header" width="100%"/>
+
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════ -->
+<!--    ANIMATED SECTION — CURRENTLY OBSESSING     -->
+<!-- ═══════════════════════════════════════════════ -->
 
-## 🌐 Connect With Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=55&text=%F0%9F%8E%AE%20%20Currently%20Obsessing%20Over&fontSize=28&fontColor=FF6B6B&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
 
 <div align="center">
 
-<!-- Each social icon uses a different animated GIF icon — unique per platform -->
+**🕹️ Games**
 
-<a href="https://www.linkedin.com/in/mahfujur-rahman14" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:mahfujur14180@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/MahfujHk/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mahfuj_rhn/?hl=en" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://steamcommunity.com/profiles/76561198426274232/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-0f5f-4c11-a7d5-b8e7b35ae3b1.gif" width="60" alt="Steam"/>
-</a>
+[![Elden Ring](https://img.shields.io/badge/⚔️%20Elden%20Ring-GOTY%20Forever-c0a060?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
+&nbsp;
+[![CS2](https://img.shields.io/badge/🎯%20Counter--Strike%202-Active-e4c731?style=for-the-badge&logo=counterstrike&logoColor=black)](https://store.steampowered.com/app/730/)
+&nbsp;
+[![Marvel Rivals](https://img.shields.io/badge/🦸%20Marvel%20Rivals-On%20Rotation-e23636?style=for-the-badge&logo=marvel&logoColor=white)](https://www.marvelrivals.com/)
+&nbsp;
+[![RE](https://img.shields.io/badge/🧟%20Resident%20Evil-Franchise%20Fan-8B0000?style=for-the-badge&logo=steam&logoColor=white)](https://www.residentevil.com/)
+
+**📺 Shows**
+
+[![Breaking Bad](https://img.shields.io/badge/🥸%20Breaking%20Bad-All%20Time%20GOAT-1a6b1a?style=for-the-badge&logo=imdb&logoColor=white)](https://www.imdb.com/title/tt0903747/)
+&nbsp;
+[![Peaky Blinders](https://img.shields.io/badge/🎩%20Peaky%20Blinders-By%20Order%20Of-2b2b2b?style=for-the-badge&logo=imdb&logoColor=gold)](https://www.imdb.com/title/tt2442560/)
+&nbsp;
+[![GOT](https://img.shields.io/badge/🐉%20Game%20of%20Thrones-Rewatch%20Mode-1a1a2e?style=for-the-badge&logo=hbo&logoColor=white)](https://www.imdb.com/title/tt0944947/)
+
+**🎵 Music**
+
+[![Travis Scott](https://img.shields.io/badge/🔥%20Travis%20Scott-Always%20On-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY)
+&nbsp;
+[![The Weeknd](https://img.shields.io/badge/🌙%20The%20Weeknd-In%20The%20Mix-8b0000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
+&nbsp;
+[![Radiohead](https://img.shields.io/badge/🎸%20Radiohead-Studying%20Fuel-4a4a4a?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:7c3aed&height=3&section=header" width="100%"/>
+
 <br/>
 
----
-
-## 🎮 Currently Obsessing Over
+<!-- ═══════════════════════════════════════════════ -->
+<!--   ANIMATED SECTION HEADER — TECH STACK        -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-
-![Elden Ring](https://img.shields.io/badge/Elden%20Ring-GOTY%20Forever-c0a060?style=for-the-badge&logo=steam&logoColor=white)
-&nbsp;
-![CS2](https://img.shields.io/badge/Counter--Strike%202-Active-e4c731?style=for-the-badge&logo=counterstrike&logoColor=black)
-&nbsp;
-![Marvel Rivals](https://img.shields.io/badge/Marvel%20Rivals-On%20Rotation-e23636?style=for-the-badge&logo=marvel&logoColor=white)
-
-![Breaking Bad](https://img.shields.io/badge/Breaking%20Bad-All%20Time%20GOAT-1a6b1a?style=for-the-badge&logo=imdb&logoColor=white)
-&nbsp;
-![Peaky Blinders](https://img.shields.io/badge/Peaky%20Blinders-By%20Order%20Of-2b2b2b?style=for-the-badge&logo=imdb&logoColor=gold)
-&nbsp;
-![GOT](https://img.shields.io/badge/Game%20of%20Thrones-Rewatch%20Mode-1a1a2e?style=for-the-badge&logo=hbo&logoColor=white)
-
-![Travis Scott](https://img.shields.io/badge/Travis%20Scott-Always%20On-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)
-&nbsp;
-![The Weeknd](https://img.shields.io/badge/The%20Weeknd-In%20The%20Mix-8b0000?style=for-the-badge&logo=spotify&logoColor=1DB954)
-&nbsp;
-![Radiohead](https://img.shields.io/badge/Radiohead-Studying%20Fuel-4a4a4a?style=for-the-badge&logo=spotify&logoColor=1DB954)
-
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=55&text=%F0%9F%A7%A9%20%20Tech%20Stack%20%26%20Skills&fontSize=30&fontColor=00FFB3&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
 
-<br/>
-
----
-
-## 🧩 Tech Stack & Skills
+<table>
+<tr>
+<td valign="top" width="65%">
 
 **Languages:**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,mysql&theme=dark&perline=8" />
 </p>
 
 **Frameworks & Tools:**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,vite,git,vscode,linux&theme=dark&perline=8" />
 </p>
 
 **Databases:**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 **Core Expertise:**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=00FFB3"/>
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=00FFB3"/>
   <img src="https://img.shields.io/badge/Database%20Systems-%230d1117.svg?style=for-the-badge&logo=postgresql&logoColor=a78bfa"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%230d1117.svg?style=for-the-badge&logo=leetcode&logoColor=fbbf24"/>
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-%230d1117.svg?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
-  <img src="https://img.shields.io/badge/Browser--Native%20AI%20%28WebLLM%29-%230d1117.svg?style=for-the-badge&logo=googlechrome&logoColor=34d399"/>
+  <br/>
+  <img src="https://img.shields.io/badge/DSA-%230d1117.svg?style=for-the-badge&logo=leetcode&logoColor=fbbf24"/>
+  <img src="https://img.shields.io/badge/OOP-%230d1117.svg?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
+  <img src="https://img.shields.io/badge/Browser--Native%20AI-%230d1117.svg?style=for-the-badge&logo=googlechrome&logoColor=34d399"/>
 </p>
+
+</td>
+<td valign="top" width="35%" align="center">
+
+<!--
+  ⚠️  SETUP REQUIRED:
+  Upload Tech_Coding_GIF_by_Pudgy_Penguins.gif
+  to your repo as: assets/coding-penguin.gif
+  Path: mahfuj141/mahfuj141/assets/coding-penguin.gif
+-->
+<img src="https://raw.githubusercontent.com/mahfuj141/mahfuj141/main/assets/coding-penguin.gif" width="220" alt="skills gif"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0099FF,100:7c3aed&height=3&section=header" width="100%"/>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════ -->
+<!--  ANIMATED SECTION HEADER — HIGHLIGHTED PROJECTS-->
+<!-- ═══════════════════════════════════════════════ -->
 
-## 🚀 Highlighted Projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=55&text=%F0%9F%9A%80%20%20Highlighted%20Projects&fontSize=30&fontColor=FFD700&animation=fadeIn&fontAlignY=70" width="100%"/>
+</div>
 
 **⚡ SouthStack Code AI — In-Browser LLM *(In Progress)***
 
@@ -194,6 +255,7 @@ A **Java-based Library Management System** applying core OOP principles througho
 <p>
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square&logo=openjdk&logoColor=f97316"/>
+  <img src="https://img.shields.io/badge/File%20I%2FO-0d1117?style=flat-square&logo=files&logoColor=white"/>
 </p>
 
 ---
@@ -212,51 +274,87 @@ A **C++ application** that models and queries real Paris 2024 Olympic Games data
   <img src="https://img.shields.io/badge/Algorithms-0d1117?style=flat-square&logo=thealgorithms&logoColor=00FFB3"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:FF6B35&height=3&section=header" width="100%"/>
+
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════ -->
+<!--   ANIMATED SECTION HEADER — GITHUB STATS      -->
+<!-- ═══════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=55&text=%F0%9F%93%8A%20%20GitHub%20Stats&fontSize=30&fontColor=58A6FF&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
 
 <div align="center">
 
-![Mahfujur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfuj141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mahfuj141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj141&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahfuj141&theme=tokyonight&hide_border=true)
+<img width="680" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj141&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=FF6B35&currStreakLabel=00FFB3"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj141&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:00FFB3&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--   ANIMATED SECTION — CONTRIBUTION SNAKE       -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=55&text=%F0%9F%90%8D%20%20Contribution%20Snake&fontSize=28&fontColor=00FFB3&animation=fadeIn&fontAlignY=70" width="100%"/>
+</div>
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/mahfuj141/mahfuj141/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:34d399&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--   ANIMATED SECTION HEADER — ACTIVITY GRAPH    -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=55&text=%F0%9F%93%88%20%20Activity%20Graph&fontSize=30&fontColor=a78bfa&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahfuj141&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff)](https://github.com/mahfuj141)
 
 </div>
 
 <br/>
 
----
-
-## 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════ -->
+<!--             FUN FACT + PROFILE VIEWS           -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- After setup (see instructions below), uncomment this: -->
-<!-- ![snake gif](https://raw.githubusercontent.com/mahfuj141/mahfuj141/output/github-contribution-grid-snake-dark.svg) -->
+> *I shipped an LLM that runs in a browser tab with zero backend and zero API key.*
+> *Elden Ring taught me that dying 47 times before a boss is just called learning the pattern. Same energy.* 🚀
 
-*Snake animation coming soon — see setup guide below* 🐍
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mahfuj141&style=for-the-badge&color=00FFB3&label=Profile+Views)](https://github.com/mahfuj141)
 
 </div>
 
 <br/>
 
----
-
-## 📈 Activity Graph
+<!-- ═══════════════════════════════════════════════ -->
+<!--      ANIMATED WAVE FOOTER BANNER              -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahfuj141&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mahfuj141)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0099FF,100:00FFB3&height=130&section=footer" width="100%"/>
 </div>
-
-<br/>
-
----
-
-
