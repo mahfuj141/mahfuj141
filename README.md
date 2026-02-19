@@ -8,32 +8,6 @@
 
 <br/>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mahfujur-rahman14" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="58" title="LinkedIn — Let's connect professionally"/>
-</a>
- 
-<a href="mailto:mahfujur14180@gmail.com">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/email.gif?raw=true" width="58" title="Email me @ mahfujur14180@gmail.com"/>
-</a>
- 
-<a href="https://www.facebook.com/MahfujHk/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="58" title="Facebook"/>
-</a>
- 
-<a href="https://www.instagram.com/mahfuj_rhn/?hl=en" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="58" title="Instagram"/>
-</a>
- 
-<a href="https://steamcommunity.com/profiles/76561198426274232/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-0f5f-4c11-a7d5-b8e7b35ae3b1.gif" width="58" title="Steam — Find me in-game"/>
-</a>
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:0099FF&height=3" width="100%"/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20%20About%20Me&fontSize=32&fontColor=00FFB3&animation=fadeIn&fontAlignY=75" width="100%"/>
@@ -47,22 +21,30 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" width="22"/> &nbsp;Final Year CSE @ **North South University**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" width="22"/>  Final Year CSE @ **North South University**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22"/> &nbsp;Building **SouthStack Code AI** — LLM in your browser, zero server
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22"/>  Building **SouthStack Code AI** — LLM in your browser, zero server
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="22"/> &nbsp;**Full-Stack Architect** — Building robust applications with PHP, Node.js & JS
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="22"/>  **Full-Stack Architect** — Building robust applications with PHP, Node.js & JS
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="22"/> &nbsp;**Database Specialist** — Designing normalized, zero-redundancy MySQL schemas
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="22"/>  **Database Specialist** — Designing normalized, zero-redundancy MySQL schemas
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22"/> &nbsp;**Systems Programmer** — Deep diving into C, C++, and Java OOP principles
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22"/>  **Systems Programmer** — Deep diving into C, C++, and Java OOP principles
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="22"/> &nbsp;Currently debugging my sleep schedule alongside my codebase
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="22"/>  Currently debugging my sleep schedule alongside my codebase
 
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/coder.gif?raw=true" width="300" alt="coding animation"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=40&text=%E2%9A%A1%20Tech%20I'm%20Deep%20In&fontSize=22&fontColor=00FFB3&animation=twinkling&fontAlignY=75" width="100%"/>
+<br/>
+
+[![SouthStack AI](https://img.shields.io/badge/⚡_SouthStack_Code_AI-Actively_Building-00FFB3?style=for-the-badge&logo=webassembly&logoColor=black)](https://github.com/mahfuj141)<br/>
+[![WebLLM](https://img.shields.io/badge/🧠_WebLLM_%2F_WebGPU-Exploring_Limits-646CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mahfuj141)<br/>
+[![Full Stack](https://img.shields.io/badge/🌐_Full--Stack_Dev-Daily_Driver-0099FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mahfuj141)<br/>
+[![DB Systems](https://img.shields.io/badge/🗄️_Database_Systems-Schema_Grinding-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/mahfuj141)<br/>
+[![DSA](https://img.shields.io/badge/⚙️_DSA_Practice-Sharpening-fbbf24?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/mahfuj141)<br/>
+[![OOP](https://img.shields.io/badge/🏗️_OOP_Design-Clean_Code_Only-f97316?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/mahfuj141)
 
 </td>
 </tr>
@@ -72,72 +54,32 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%94%A5%20%20Currently%20Obsessing%20Over&fontSize=30&fontColor=FF6B6B&animation=twinkling&fontAlignY=75" width="100%"/>
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="18"/> &nbsp; **Games**
-
-[![Elden Ring](https://img.shields.io/badge/⚔️_Elden_Ring-GOTY_Forever-c0a060?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/1245620/ELDEN_RING/)
-[![CS2](https://img.shields.io/badge/🎯_Counter--Strike_2-Active-e4c731?style=for-the-badge&logo=counterstrike&logoColor=black)](https://store.steampowered.com/app/730/CounterStrike_2/)
-[![Marvel Rivals](https://img.shields.io/badge/🦸_Marvel_Rivals-On_Rotation-e23636?style=for-the-badge&logo=marvel&logoColor=white)](https://www.marvelrivals.com/)
-[![RE](https://img.shields.io/badge/🧟_Resident_Evil-Franchise_Fan-8B0000?style=for-the-badge&logo=steam&logoColor=white)](https://www.residentevil.com/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="18"/> &nbsp; **Shows & Music**
-
-[![Breaking Bad](https://img.shields.io/badge/🥸_Breaking_Bad-All_Time_GOAT-1a6b1a?style=for-the-badge&logo=imdb&logoColor=white)](https://www.imdb.com/title/tt0903747/)
-[![Peaky Blinders](https://img.shields.io/badge/🎩_Peaky_Blinders-By_Order_Of-2b2b2b?style=for-the-badge&logo=imdb&logoColor=gold)](https://www.imdb.com/title/tt2442560/)
-[![GOT](https://img.shields.io/badge/🐉_Game_of_Thrones-Rewatch_Mode-1a1a2e?style=for-the-badge&logo=hbo&logoColor=white)](https://www.imdb.com/title/tt0944947/)
-
-[![Travis Scott](https://img.shields.io/badge/🔥_Travis_Scott-Always_On-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY)
-[![The Weeknd](https://img.shields.io/badge/🌙_The_Weeknd-In_The_Mix-8b0000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
-[![Radiohead](https://img.shields.io/badge/🎸_Radiohead-Studying_Fuel-4a4a4a?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="18"/> &nbsp; **Tech I'm Currently Deep In**
-
-[![SouthStack AI](https://img.shields.io/badge/⚡_SouthStack_Code_AI-Actively_Building-00FFB3?style=for-the-badge&logo=webassembly&logoColor=black)](https://github.com/mahfuj141)
-[![WebLLM](https://img.shields.io/badge/🧠_WebLLM_%2F_WebGPU-Exploring_Limits-646CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mahfuj141)
-
-[![Full Stack](https://img.shields.io/badge/🌐_Full--Stack_Dev-Daily_Driver-0099FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mahfuj141)
-[![DB Systems](https://img.shields.io/badge/🗄️_Database_Systems-Schema_Grinding-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/mahfuj141)
-[![DSA](https://img.shields.io/badge/⚙️_DSA_Practice-Sharpening-fbbf24?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/mahfuj141)
-[![OOP](https://img.shields.io/badge/🏗️_OOP_Design-Clean_Code_Only-f97316?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/mahfuj141)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:fbbf24&height=3" width="100%"/>
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%A7%A9%20%20Tech%20Stack%20%26%20Skills&fontSize=32&fontColor=00FFB3&animation=fadeIn&fontAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%A7%A9%20%20Dynamic%20Tech%20Arsenal&fontSize=32&fontColor=00FFB3&animation=fadeIn&fontAlignY=75" width="100%"/>
 </div>
 
 <table>
 <tr>
-<td valign="top" width="62%">
+<td valign="top" width="55%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**Languages:**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>  **Languages:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,mysql&theme=dark&perline=8"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"/> &nbsp;**Frameworks & Tools:**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"/>  **Frameworks & Tools:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,vite,git,vscode,linux&theme=dark&perline=8"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="20"/> &nbsp;**Databases:**
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="20"/>  **Databases:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**Core Expertise:**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>  **Core Expertise:**
 
 <p>
   <img src="https://img.shields.io/badge/Full--Stack_Dev-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=00FFB3"/>
@@ -149,7 +91,7 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 </p>
 
 </td>
-<td valign="top" width="38%" align="center">
+<td valign="top" width="45%" align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/code.gif?raw=true" width="260" alt="tech hacker style gif"/>
 <br/><br/>
@@ -166,7 +108,7 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%9A%80%20%20Highlighted%20Projects&fontSize=32&fontColor=FFD700&animation=twinkling&fontAlignY=75" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**⚡ SouthStack Code AI — In-Browser LLM *(In Progress)***
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>  **⚡ SouthStack Code AI — In-Browser LLM *(In Progress)***
 
 A fully offline AI coding assistant powered by a **1.5B parameter LLM running entirely inside the browser tab** — no server, no API key, no internet after first load. Built with WebGPU for on-device hardware-accelerated inference.
 
@@ -186,7 +128,7 @@ A fully offline AI coding assistant powered by a **1.5B parameter LLM running en
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**🎓 Alumni Network & Management System**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>  **🎓 Alumni Network & Management System**
 
 A full-stack **university alumni platform** built with PHP and MySQL, featuring a real relational database backend and a complete set of social and career management tools.
 
@@ -205,7 +147,7 @@ A full-stack **university alumni platform** built with PHP and MySQL, featuring 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**📚 Library Management System** `CSE215`
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>  **📚 Library Management System**
 
 A **Java-based Library Management System** applying core OOP principles throughout.
 
@@ -221,7 +163,7 @@ A **Java-based Library Management System** applying core OOP principles througho
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**🏅 Paris Olympics 2024 — Data Structure Project**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>  **🏅 Paris Olympics 2024 — Data Structure Project**
 
 A **C++ application** that models and queries real Paris 2024 Olympic Games data using custom-built data structures — not relying on STL shortcuts.
 
@@ -283,6 +225,36 @@ A **C++ application** that models and queries real Paris 2024 Olympic Games data
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahfuj141&style=for-the-badge&color=00FFB3&label=Profile+Views)](https://github.com/mahfuj141)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%93%A7%20%20Connect%20With%20Me&fontSize=32&fontColor=FF6B6B&animation=twinkling&fontAlignY=75" width="100%"/>
+</div>
+
+<div align="center">
+
+<a href="mailto:mahfujur14180@gmail.com">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="65" title="Email me @ mahfujur14180@gmail.com"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mahfujur-rahman14" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="58" title="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/MahfujHk/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="58" title="Facebook"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mahfuj_rhn/?hl=en" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="58" title="Instagram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://steamcommunity.com/profiles/76561198426274232/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-0f5f-4c11-a7d5-b8e7b35ae3b1.gif" width="58" title="Steam"/>
+</a>
 
 </div>
 
