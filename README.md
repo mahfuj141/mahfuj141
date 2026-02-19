@@ -1,56 +1,127 @@
-# 👋 Hey there, I'm Md. Mahfujur Rahman
+<!-- TOP BANNER GIF — Upload Tech_Coding_GIF_by_Pudgy_Penguins.gif to your repo as assets/banner.gif -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahfuj141/mahfuj141/main/assets/banner.gif" width="100%" alt="banner"/>
+</div>
 
+<br/>
+
+<!-- SEQUENTIAL TYPING ANIMATION — cycles through all sides of who you are -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final+Year+CSE+%40+North+South+University+%F0%9F%8E%93;Building+LLMs+that+run+inside+your+browser+%E2%9A%A1;Full-Stack+Developer+%7C+PHP+%C2%B7+JS+%C2%B7+Node.js;Systems+Programmer+%7C+C+%C2%B7+C%2B%2B+%C2%B7+Java;Database+Architect+%7C+MySQL+%C2%B7+Schema+Design;No+API+key.+No+server.+Just+WebGPU+%F0%9F%9A%80;Open+to+opportunities+%E2%80%94+let%27s+build+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=false&width=750&lines=Hey%2C+I'm+Mahfuj+%F0%9F%91%8B;Final+Year+CSE+%40+North+South+University;Building+LLMs+that+live+in+your+browser+%E2%9A%A1;Elden+Ring+%7C+CS2+%7C+Marvel+Rivals+%7C+RE+Enjoyer+%F0%9F%8E%AE;Heavy+Lifter+%7C+Gym+is+non-negotiable+%F0%9F%8F%8B%EF%B8%8F;Breaking+Bad+%C2%B7+GOT+%C2%B7+Peaky+Blinders+%F0%9F%93%BA;Travis+Scott+%C2%B7+The+Weeknd+%C2%B7+Radiohead+on+loop+%F0%9F%8E%A7;Shipping+real+things%2C+not+just+ideas.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahfujur-rahman14" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mahfujur14180@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mahfuj141" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mahfuj141&style=flat&color=58a6ff&label=Profile+Views" height="28"/>
-</p>
+---
+
+## 🙋‍♂️ About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+I'm **Mahfuj** — final year CSE student by day, gym rat and Elden Ring veteran by night. I write code that actually ships, lift weights that actually move, and watch shows that actually hit.
+
+&nbsp;
+
+🎓 &nbsp;Final Year CSE @ **North South University**  
+⚡ &nbsp;Building **SouthStack Code AI** — a full LLM running in your browser, zero server  
+🎮 &nbsp;**FromSoftware** die-hard | **Elden Ring** is a masterpiece | **CS2** & **Marvel Rivals** on rotation  
+💀 &nbsp;**Resident Evil** franchise collector — survival horror is a lifestyle  
+🏋️ &nbsp;Heavy lifting, regularly. Gains don't take days off  
+📺 &nbsp;**Breaking Bad** · **Game of Thrones** · **Peaky Blinders** — the holy trinity  
+🎵 &nbsp;**Travis Scott** · **The Weeknd** · **Radiohead** always in the background  
+🔨 &nbsp;Always cooking something — personal projects, academic builds, or both  
+☕ &nbsp;Currently debugging my sleep schedule alongside my codebase
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<!-- Upload Code_Hacking_GIF_by_Pizza_Ninjas.gif as assets/coding-cat.gif -->
+<img src="https://raw.githubusercontent.com/mahfuj141/mahfuj141/main/assets/coding-cat.gif" width="280" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-##  About Me
+## 🌐 Connect With Me
 
-🎓 **Final Year CSE Undergraduate @ North South University (NSU)** with a strong foundation in systems programming, full-stack web development, and cutting-edge browser-based AI.
+<div align="center">
 
-💻 **Currently working on:**
+<!-- Each social icon uses a different animated GIF icon — unique per platform -->
 
-* Building **SouthStack Code AI** — a 1.5B LLM running 100% in the browser via WebGPU, with no API key or server needed
-* Sharpening Data Structures & Algorithms through real project work
+<a href="https://www.linkedin.com/in/mahfujur-rahman14" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:mahfujur14180@gmail.com">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/MahfujHk/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" alt="Facebook"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mahfuj_rhn/?hl=en" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://steamcommunity.com/profiles/76561198426274232/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-0f5f-4c11-a7d5-b8e7b35ae3b1.gif" width="60" alt="Steam"/>
+</a>
 
-⚡ **Personal Traits:** Problem-solver · Clean code advocate · Deadline-driven · Team player
+</div>
+
+<br/>
 
 ---
 
-##  Tech Stack & Skills
+## 🎮 Currently Obsessing Over
+
+<div align="center">
+
+![Elden Ring](https://img.shields.io/badge/Elden%20Ring-GOTY%20Forever-c0a060?style=for-the-badge&logo=steam&logoColor=white)
+&nbsp;
+![CS2](https://img.shields.io/badge/Counter--Strike%202-Active-e4c731?style=for-the-badge&logo=counterstrike&logoColor=black)
+&nbsp;
+![Marvel Rivals](https://img.shields.io/badge/Marvel%20Rivals-On%20Rotation-e23636?style=for-the-badge&logo=marvel&logoColor=white)
+
+![Breaking Bad](https://img.shields.io/badge/Breaking%20Bad-All%20Time%20GOAT-1a6b1a?style=for-the-badge&logo=imdb&logoColor=white)
+&nbsp;
+![Peaky Blinders](https://img.shields.io/badge/Peaky%20Blinders-By%20Order%20Of-2b2b2b?style=for-the-badge&logo=imdb&logoColor=gold)
+&nbsp;
+![GOT](https://img.shields.io/badge/Game%20of%20Thrones-Rewatch%20Mode-1a1a2e?style=for-the-badge&logo=hbo&logoColor=white)
+
+![Travis Scott](https://img.shields.io/badge/Travis%20Scott-Always%20On-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)
+&nbsp;
+![The Weeknd](https://img.shields.io/badge/The%20Weeknd-In%20The%20Mix-8b0000?style=for-the-badge&logo=spotify&logoColor=1DB954)
+&nbsp;
+![Radiohead](https://img.shields.io/badge/Radiohead-Studying%20Fuel-4a4a4a?style=for-the-badge&logo=spotify&logoColor=1DB954)
+
+</div>
+
+<br/>
+
+---
+
+## 🧩 Tech Stack & Skills
 
 **Languages:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,mysql&theme=dark&perline=8" />
 </p>
 
 **Frameworks & Tools:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,vite,git,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,vite,git,vscode,linux&theme=dark&perline=8" />
 </p>
 
 **Databases:**
@@ -59,19 +130,21 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
-**Core Areas:**
+**Core Expertise:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=00FFB3"/>
   <img src="https://img.shields.io/badge/Database%20Systems-%230d1117.svg?style=for-the-badge&logo=postgresql&logoColor=a78bfa"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%230d1117.svg?style=for-the-badge&logo=leetcode&logoColor=fbbf24"/>
   <img src="https://img.shields.io/badge/Object--Oriented%20Programming-%230d1117.svg?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
   <img src="https://img.shields.io/badge/Browser--Native%20AI%20%28WebLLM%29-%230d1117.svg?style=for-the-badge&logo=googlechrome&logoColor=34d399"/>
 </p>
 
+<br/>
+
 ---
 
-##  Highlighted Projects
+## 🚀 Highlighted Projects
 
 **⚡ SouthStack Code AI — In-Browser LLM *(In Progress)***
 
@@ -87,7 +160,7 @@ A fully offline AI coding assistant powered by a **1.5B parameter LLM running en
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebGPU-FF6B35?style=flat-square&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebLLM-00FF88?style=flat-square&logo=webassembly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/WebLLM-00FFB3?style=flat-square&logo=webassembly&logoColor=black"/>
   <img src="https://img.shields.io/badge/Qwen2.5--Coder-1.5B-0d1117?style=flat-square&logo=openai&logoColor=34d399"/>
 </p>
 
@@ -123,7 +196,6 @@ A **Java-based Library Management System** applying core OOP principles througho
 <p>
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square&logo=openjdk&logoColor=f97316"/>
-  <img src="https://img.shields.io/badge/File%20I%2FO-0d1117?style=flat-square&logo=files&logoColor=white"/>
 </p>
 
 ---
@@ -139,8 +211,10 @@ A **C++ application** that models and queries real Paris 2024 Olympic Games data
 <p>
   <img src="https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Structures-0d1117?style=flat-square&logo=leetcode&logoColor=fbbf24"/>
-  <img src="https://img.shields.io/badge/Algorithms-0d1117?style=flat-square&logo=thealgorithms&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/Algorithms-0d1117?style=flat-square&logo=thealgorithms&logoColor=00FFB3"/>
 </p>
+
+<br/>
 
 ---
 
@@ -156,13 +230,51 @@ A **C++ application** that models and queries real Paris 2024 Olympic Games data
 
 </div>
 
----
-
-##  Contact Me
-
-📧 **Email:** [mahfujur14180@gmail.com](mailto:mahfujur14180@gmail.com)
-📍 **Location:** Dhaka, Bangladesh
-💼 [LinkedIn](https://www.linkedin.com/in/mahfujur-rahman14) &nbsp;·&nbsp; 🧑‍💻 [GitHub](https://github.com/mahfuj141)
+<br/>
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- After setup (see instructions below), uncomment this: -->
+<!-- ![snake gif](https://raw.githubusercontent.com/mahfuj141/mahfuj141/output/github-contribution-grid-snake-dark.svg) -->
+
+*Snake animation coming soon — see setup guide below* 🐍
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahfuj141&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mahfuj141)
+
+</div>
+
+<br/>
+
+---
+
+## ⚡ Fun Fact
+
+> I shipped an LLM that runs entirely in a browser tab with **zero backend, zero API key, zero subscription** — just raw WebGPU and a lot of debugging.
+> Meanwhile, Elden Ring taught me that dying 47 times before a boss is just called *learning the pattern*. Same energy. 🚀
+
+<br/>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mahfuj141&style=flat-square&color=00FFB3&label=Profile+Views)](https://github.com/mahfuj141)
+
+<!-- FOOTER WAVE GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="footer"/>
+
+</div>
