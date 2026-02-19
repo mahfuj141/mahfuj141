@@ -22,14 +22,12 @@
 <tr>
 <td valign="top" width="60%">
 
-I'm **Mahfuj** — final year CSE student by day, gym rat and Elden Ring veteran by night. I write code that actually ships, lift weights that actually move, and watch shows that actually hit.
+I'm **Mahfuj** — CSE student by day, gym rat by night. I write code that actually ships, lift weights that actually move, and watch shows that actually hit.
 
 &nbsp;
 
 🎓 &nbsp;Final Year CSE @ **North South University**  
-⚡ &nbsp;Building **SouthStack Code AI** — a full LLM running in your browser, zero server  
-🎮 &nbsp;**FromSoftware** die-hard | **Elden Ring** is a masterpiece | **CS2** & **Marvel Rivals** on rotation  
-💀 &nbsp;**Resident Evil** franchise collector — survival horror is a lifestyle  
+⚡ &nbsp;Building **SouthStack Code AI** — a full LLM running in your browser, zero server   
 🏋️ &nbsp;Heavy lifting, regularly. Gains don't take days off  
 📺 &nbsp;**Breaking Bad** · **Game of Thrones** · **Peaky Blinders** — the holy trinity  
 🎵 &nbsp;**Travis Scott** · **The Weeknd** · **Radiohead** always in the background  
