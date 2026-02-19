@@ -13,7 +13,9 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20%20About%20Me&fontSize=32&fontColor=00FFB3&animation=fadeIn&fontAlignY=75" width="100%"/>
 </div>
 
-<br/> <table>
+<br/>
+
+<table>
 <tr>
 <td valign="middle" width="55%">
 
@@ -61,43 +63,31 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 
 <table>
 <tr>
-<td valign="middle" width="55%">
+<td align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**Languages:**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> &nbsp; **Core Languages & Data Systems**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,mysql,sqlite&theme=dark&perline=14"/>
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,mysql&theme=dark&perline=8"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"/> &nbsp; **Frameworks, Engines & Dev Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,vite,git,vscode,linux&theme=dark&perline=14"/>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"/> &nbsp;**Frameworks & Tools:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,vite,git,vscode,linux&theme=dark&perline=8"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="20"/> &nbsp;**Databases:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> &nbsp;**Core Expertise:**
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"/> &nbsp; **Architectural & Specialized Expertise**
+<br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Full--Stack_Dev-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=00FFB3"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Database_Systems-%230d1117.svg?style=for-the-badge&logo=postgresql&logoColor=a78bfa"/>
-  <br/>
+  &nbsp;
   <img src="https://img.shields.io/badge/DSA-%230d1117.svg?style=for-the-badge&logo=leetcode&logoColor=fbbf24"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/OOP-%230d1117.svg?style=for-the-badge&logo=openjdk&logoColor=f97316"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Browser_AI_(WebLLM)-%230d1117.svg?style=for-the-badge&logo=googlechrome&logoColor=34d399"/>
 </p>
-
-</td>
-<td valign="middle" width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="260" alt="Pizza Ninjas coding gif"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahfuj141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9" width="260" alt="wakatime" onerror="this.style.display='none'"/>
 
 </td>
 </tr>
