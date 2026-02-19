@@ -61,6 +61,7 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 
 <br/>
 
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -92,6 +93,7 @@ I'm **Mahfuj** — Final year CSE student and Full-Stack Developer. I architect 
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0099FF,100:7c3aed&height=3" width="100%"/>
 <br/>
