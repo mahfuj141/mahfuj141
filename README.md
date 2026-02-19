@@ -261,20 +261,4 @@ A **C++ application** that models and queries real Paris 2024 Olympic Games data
 
 ---
 
-## ⚡ Fun Fact
 
-> I shipped an LLM that runs entirely in a browser tab with **zero backend, zero API key, zero subscription** — just raw WebGPU and a lot of debugging.
-> Meanwhile, Elden Ring taught me that dying 47 times before a boss is just called *learning the pattern*. Same energy. 🚀
-
-<br/>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mahfuj141&style=flat-square&color=00FFB3&label=Profile+Views)](https://github.com/mahfuj141)
-
-<!-- FOOTER WAVE GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="footer"/>
-
-</div>
